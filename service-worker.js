@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bageriet/precache-manifest.3377da991dde98729009935e0c9677eb.js"
+  "/Bageriet/precache-manifest.49fa1810264d67a435f668cf59f04bce.js"
 );
 
 self.addEventListener('message', (event) => {
