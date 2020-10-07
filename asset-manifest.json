@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bageriet/static/css/main.bbdf5f27.chunk.css",
+    "main.js": "/Bageriet/static/js/main.98341fa5.chunk.js",
+    "main.js.map": "/Bageriet/static/js/main.98341fa5.chunk.js.map",
+    "runtime-main.js": "/Bageriet/static/js/runtime-main.306ee913.js",
+    "runtime-main.js.map": "/Bageriet/static/js/runtime-main.306ee913.js.map",
+    "static/js/2.afe0cb49.chunk.js": "/Bageriet/static/js/2.afe0cb49.chunk.js",
+    "static/js/2.afe0cb49.chunk.js.map": "/Bageriet/static/js/2.afe0cb49.chunk.js.map",
+    "index.html": "/Bageriet/index.html",
+    "precache-manifest.12961caf6fdd178421ba37129038b5af.js": "/Bageriet/precache-manifest.12961caf6fdd178421ba37129038b5af.js",
+    "service-worker.js": "/Bageriet/service-worker.js",
+    "static/css/main.bbdf5f27.chunk.css.map": "/Bageriet/static/css/main.bbdf5f27.chunk.css.map",
+    "static/js/2.afe0cb49.chunk.js.LICENSE.txt": "/Bageriet/static/js/2.afe0cb49.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Bageriet/static/media/OpenSans-SemiboldItalic.73f7301a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.306ee913.js",
+    "static/js/2.afe0cb49.chunk.js",
+    "static/css/main.bbdf5f27.chunk.css",
+    "static/js/main.98341fa5.chunk.js"
+  ]
+}
