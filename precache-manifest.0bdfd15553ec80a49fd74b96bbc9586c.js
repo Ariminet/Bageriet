@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0c0cdbde9f5275f2cd963e34adaa246",
+    "revision": "9a9e4b34bd812becb329c202d8aa7bee",
     "url": "/Bageriet/index.html"
   },
   {
-    "revision": "10a4cc63f46b3c1aa46f",
-    "url": "/Bageriet/static/css/main.bbdf5f27.chunk.css"
+    "revision": "d814158479fc17eddb9a",
+    "url": "/Bageriet/static/css/main.ca9fd6ab.chunk.css"
   },
   {
     "revision": "ede28d147832001ee5a8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bageriet/static/js/2.bbc31465.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10a4cc63f46b3c1aa46f",
+    "revision": "d814158479fc17eddb9a",
     "url": "/Bageriet/static/js/main.9ddb7cb5.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Bageriet/static/css/main.bbdf5f27.chunk.css",
+    "main.css": "/Bageriet/static/css/main.ca9fd6ab.chunk.css",
     "main.js": "/Bageriet/static/js/main.9ddb7cb5.chunk.js",
     "main.js.map": "/Bageriet/static/js/main.9ddb7cb5.chunk.js.map",
     "runtime-main.js": "/Bageriet/static/js/runtime-main.03cf29e8.js",
@@ -8,16 +8,16 @@
     "static/js/2.bbc31465.chunk.js": "/Bageriet/static/js/2.bbc31465.chunk.js",
     "static/js/2.bbc31465.chunk.js.map": "/Bageriet/static/js/2.bbc31465.chunk.js.map",
     "index.html": "/Bageriet/index.html",
-    "precache-manifest.49fa1810264d67a435f668cf59f04bce.js": "/Bageriet/precache-manifest.49fa1810264d67a435f668cf59f04bce.js",
+    "precache-manifest.0bdfd15553ec80a49fd74b96bbc9586c.js": "/Bageriet/precache-manifest.0bdfd15553ec80a49fd74b96bbc9586c.js",
     "service-worker.js": "/Bageriet/service-worker.js",
-    "static/css/main.bbdf5f27.chunk.css.map": "/Bageriet/static/css/main.bbdf5f27.chunk.css.map",
+    "static/css/main.ca9fd6ab.chunk.css.map": "/Bageriet/static/css/main.ca9fd6ab.chunk.css.map",
     "static/js/2.bbc31465.chunk.js.LICENSE.txt": "/Bageriet/static/js/2.bbc31465.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/Bageriet/static/media/OpenSans-SemiboldItalic.73f7301a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.03cf29e8.js",
     "static/js/2.bbc31465.chunk.js",
-    "static/css/main.bbdf5f27.chunk.css",
+    "static/css/main.ca9fd6ab.chunk.css",
     "static/js/main.9ddb7cb5.chunk.js"
   ]
 }
