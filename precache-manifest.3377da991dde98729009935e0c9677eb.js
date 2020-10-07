@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab9cd34ec38feabc08def7765408ad64",
+    "revision": "e785169f9f8c303762fd7917fb12fc45",
     "url": "/Bageriet/index.html"
   },
   {
-    "revision": "a8cfb1e6417ba961d796",
+    "revision": "b5341f1c7b12ded1ecf1",
     "url": "/Bageriet/static/css/main.bbdf5f27.chunk.css"
   },
   {
-    "revision": "70d160074f2db2f2c120",
-    "url": "/Bageriet/static/js/2.afe0cb49.chunk.js"
+    "revision": "ede28d147832001ee5a8",
+    "url": "/Bageriet/static/js/2.bbc31465.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Bageriet/static/js/2.afe0cb49.chunk.js.LICENSE.txt"
+    "url": "/Bageriet/static/js/2.bbc31465.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8cfb1e6417ba961d796",
-    "url": "/Bageriet/static/js/main.98341fa5.chunk.js"
+    "revision": "b5341f1c7b12ded1ecf1",
+    "url": "/Bageriet/static/js/main.61a1f414.chunk.js"
   },
   {
-    "revision": "ee78a65833e5fa336d03",
-    "url": "/Bageriet/static/js/runtime-main.306ee913.js"
+    "revision": "7e3116381d5e50c458f8",
+    "url": "/Bageriet/static/js/runtime-main.03cf29e8.js"
   },
   {
     "revision": "50145685042b4df07a1fd19957275b81",
